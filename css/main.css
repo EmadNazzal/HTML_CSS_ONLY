@@ -149,7 +149,7 @@ width: 100%;
 /* design of landing page */
 
 .landing {
-    background-image: url(/img/dead_sea.jpg);
+    background-image: url(../img/dead_sea.jpg);
     background-size: cover;
     height:calc(100vh - 117.5px);
     position: relative;
